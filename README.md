@@ -29,9 +29,9 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge">
+<p align="left">
+  <a href="https://github.com/aayushitiwari0503-pixel">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aayushitiwari0503-pixel label=Follow&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/ayushi-tiwari-928572370">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -48,25 +48,25 @@
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushitiwari0503-pixe&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 ## ✨ Random Dev Quote
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 ## 📊 Contribution Graph & Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="200px" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=aayushitiwari0503-pixel&theme=radical&hide_border=true" height="200px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username==aayushitiwari0503-pixel theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -75,14 +75,14 @@
 
 ## 📦 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username==aayushitiwari0503-pixel limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 ### 📌 My Top Repositories  
-<table align="center">
+<table align="left">
   <tr>
     <th>Repository</th>
     <th>Link</th>
@@ -90,17 +90,17 @@
 
   <tr>
     <td><strong>C Projects</strong></td>
-    <td><a href="https://github.com/YOUR_USERNAME/C-Projects">View Repo</a></td>
+    <td><a href="https://github.com/=aayushitiwari0503-pixelC-Projects">View Repo</a></td>
   </tr>
 
   <tr>
     <td><strong>Myntra Clone</strong></td>
-    <td><a href="https://github.com/YOUR_USERNAME/Myntra-Clone">View Repo</a></td>
+    <td><a href="https://github.com/=aayushitiwari0503-pixel/Myntra-Clone">View Repo</a></td>
   </tr>
 
   <tr>
     <td><strong>Confluenia</strong></td>
-    <td><a href="https://github.com/YOUR_USERNAME/Confluenia">View Repo</a></td>
+    <td><a href="https://github.com/=aayushitiwari0503-pixel/Confluenia">View Repo</a></td>
   </tr>
 
 </table>
