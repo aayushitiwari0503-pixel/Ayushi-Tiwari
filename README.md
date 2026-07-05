@@ -64,14 +64,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushitiwari0503-pixel&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithayushi&theme=react-dark&hide_border=true" />
 </p>
-
 ---
 
-## ✨ Random Dev Quote
+## ✨Dev Quote
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -80,7 +78,7 @@
 
 ## 📊 Contribution Graph & Streak Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=aayushitiwari0503-pixel&theme=radical&hide_border=true" height="200px" />
+  <img src="https://streak-stats.demolab.com/?user=buildwithayushi&theme=radical&hide_border=true" height="200px" />
 </p>
 
 ---
